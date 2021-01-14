@@ -1,0 +1,35 @@
+<style type="text/css">
+.style4 {
+	font-size: 18px;
+	font-family: "Century Gothic";
+	color: #66FFFF;
+}
+.style6 {
+	font-size: 24px;
+	font-family: "Kristen ITC";
+	color: #66FFFF;
+}
+.style7 {font-size: 36px; font-family: "Century Gothic"; color: #66FFFF; }
+.style8 {font-size: 24px; font-family: "Century Gothic"; color: #66FFFF; }
+a:link {
+	color: #66FFFF;
+	font-style: italic;
+	text-decoration: none;
+}
+a:hover {
+	color: #009999;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+a {
+	font-style: italic;
+}
+.style9 {font-size: 18px; font-family: "Century Gothic"; color: #66FF99; font-weight: normal; }
+-->
+</style>
+</head>

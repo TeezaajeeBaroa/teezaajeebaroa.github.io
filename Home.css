@@ -1,0 +1,33 @@
+background-image: url(Rainbow.jpg);
+background-size: cover;
+background-position: center
+
+<style type="text/css">
+.h1 header
+<!--
+.style1 {color: #00FFFF}
+.style4 {
+font-family: "Kristen ITC";
+font-size: 24px;
+}
+.style6 {color: #66FFFF; font-family: "Kristen ITC"; font-size: 26px; }
+a:link {
+color: #66FFFF;
+text-decoration: none;
+}
+a:visited {
+text-decoration: none;
+}
+a:hover {
+text-decoration: none;
+color: #FFFF00;
+}
+
+a:active {
+text-decoration: none;
+}
+a {
+font-style: italic;
+}
+-->
+</style></head>
